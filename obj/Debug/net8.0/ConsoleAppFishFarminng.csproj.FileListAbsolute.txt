@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ConsoleAppFishFarminng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ConsoleAppFishFarminng.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ConsoleAppFishFarminng.AssemblyInfo.cs
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ConsoleAppFishFarminng.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Debug\net8.0\ConsoleAppFishFarminng.exe
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Debug\net8.0\ConsoleAppFishFarminng.deps.json
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Debug\net8.0\ConsoleAppFishFarminng.runtimeconfig.json
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Debug\net8.0\ConsoleAppFishFarminng.dll
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Debug\net8.0\ConsoleAppFishFarminng.pdb
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ConsoleAppFishFarminng.dll
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\refint\ConsoleAppFishFarminng.dll
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ConsoleAppFishFarminng.pdb
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ConsoleAppFishFarminng.genruntimeconfig.cache
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\obj\Debug\net8.0\ref\ConsoleAppFishFarminng.dll

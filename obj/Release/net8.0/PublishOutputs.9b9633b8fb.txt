@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Release\net8.0\publish\ConsoleAppFishFarminng.exe
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Release\net8.0\publish\ConsoleAppFishFarminng.dll
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Release\net8.0\publish\ConsoleAppFishFarminng.deps.json
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Release\net8.0\publish\ConsoleAppFishFarminng.runtimeconfig.json
+C:\Users\USER\Desktop\ConsoleAppFishFarminngToFile\bin\Release\net8.0\publish\ConsoleAppFishFarminng.pdb

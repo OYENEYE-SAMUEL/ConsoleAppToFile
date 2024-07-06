@@ -1,0 +1,2 @@
+1	table size	6 month	4500	55	12x8	sam@gmail.com
+2	jumbo	2 month	2000	100	12x8	sam@gmail.com
